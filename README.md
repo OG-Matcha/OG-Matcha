@@ -76,10 +76,10 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<a href="https://leetcode.com/OG_Matcha/">
+<a href="https://github.com/OG-Matcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OG-Matcha&show_icons=true&theme=radical" />
 </a>
-<a href="https://leetcode.com/OG_Matcha/">
+<a href="https://github.com/OG-Matcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Matcha&layout=compact&hide=jupyter%20notebook&theme=radical" />
 </a>
 
