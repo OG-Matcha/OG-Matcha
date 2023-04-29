@@ -76,10 +76,10 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/OG-Matcha/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OG-Matcha&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+<a href="https://github.com/OG-Matcha/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Matcha&layout=compact&hide=jupyter%20notebook&theme=radical" />
 </a>
 
