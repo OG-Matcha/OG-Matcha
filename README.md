@@ -76,6 +76,8 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
+![](https://komarev.com/ghpvc/?username=OG-Matcha&color=brightgreen&style=plastic)
+
 <a href="https://github.com/OG-Matcha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OG-Matcha&show_icons=true&theme=radical" />
 </a>
