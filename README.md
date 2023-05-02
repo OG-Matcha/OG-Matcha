@@ -32,7 +32,7 @@
 ```yaml
 name: 黃鉅燊 (OG_Matcha)
 located_in: Taoyuan, Taiwan
-current_job: College Stusent
+current_job: College Student
 education:
   [
     "Bachelor's in MIS",
@@ -47,7 +47,7 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Member - SAP Student Team - Basis & s/4HANA"
+    "Member - SAP Student Team - Basis & S/4HANA"
     "Tutor - Python",
   ]
   
