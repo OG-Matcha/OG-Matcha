@@ -22,7 +22,8 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.imgur.com/CLmQxbH.gif">
+  <img height="250" src= "https://i.imgur.com/CLmQxbH.gif">
+  <img height="250" src= "https://github.com/OG-Matcha/OG-Matcha/assets/85878531/882e99ce-41ac-4a06-9a49-6d424b0f605b.gif">
 </p>
 
 ---
