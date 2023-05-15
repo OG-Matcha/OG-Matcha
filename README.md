@@ -80,10 +80,10 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 ![](https://komarev.com/ghpvc/?username=OG-Matcha&color=brightgreen&style=plastic)
 
 <a href="https://github.com/OG-Matcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OG-Matcha&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats-og-matcha.vercel.app/api?username=OG-Matcha&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/OG-Matcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OG-Matcha&layout=compact&hide=jupyter%20notebook&theme=radical" />
+  <img align="center" src="https://github-readme-stats-og-matcha.vercel.app/api/top-langs/?username=OG-Matcha&layout=compact&hide=jupyter%20notebook&theme=radical" />
 </a>
 
 ![Snake animation](https://github.com/OG-Matcha/OG-Matcha/blob/output/github-contribution-grid-snake.svg)
