@@ -193,7 +193,7 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3> • Learning - Website</h3>
 <a href="https://github.com/OG-Matcha/Taiwan-Project">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Taiwan-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Taiwan-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 </a>
 <a href="https://github.com/OG-Matcha/Hawaii-Project">
   <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Hawaii-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
