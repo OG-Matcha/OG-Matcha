@@ -160,6 +160,9 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 </a>
 
 <h3> • Learning - Python</h3>
+<a href="https://github.com/OG-Matcha/Basic-TensorFlow">
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Basic-TensorFlow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+</a>
 <a href="https://github.com/OG-Matcha/FastAPI-Learning">
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=FastAPI-Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
 </a>
