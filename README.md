@@ -133,73 +133,73 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3> • Projects - Python </h3>
 <a href="https://github.com/OG-Matcha/Image-Generator">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Image-Generator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Image-Generator&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Battery-Alert">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Battery-Alert&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Battery-Alert&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/PDFTransfer">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=PDFTransfer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=PDFTransfer&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Matcha-News">
-  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Matcha-News&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Matcha-News&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Number-Guessing">
-  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Number-Guessing&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Number-Guessing&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Donut">
-  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Donut&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Donut&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <h3> • Data Structure & Algorithm</h3>
 <a href="https://github.com/OG-Matcha/LeetCode-Practice">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=LeetCode-Practice&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=LeetCode-Practice&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Searching-and-Sorting">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Searching-and-Sorting&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Searching-and-Sorting&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <h3> • Learning - Python</h3>
 <a href="https://github.com/OG-Matcha/Basic-TensorFlow">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Basic-TensorFlow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Basic-TensorFlow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/FastAPI-Learning">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=FastAPI-Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=FastAPI-Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Web-Scraping">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Web-Scraping&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Web-Scraping&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/NCU-Python-Calculus">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU-Python-Calculus&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU-Python-Calculus&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
  
 <h3> • Python Class & Tutor</h3>
 <a href="https://github.com/OG-Matcha/Python-Class">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Python-Class&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Python-Class&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Tutor">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Tutor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Tutor&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <h3> • Learning - C++</h3>
 <a href="https://github.com/OG-Matcha/NCU_Summer_CPP">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU_Summer_CPP&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU_Summer_CPP&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/The-C-20-Masterclass-Source-Code-main">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=The-C-20-Masterclass-Source-Code-main&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=The-C-20-Masterclass-Source-Code-main&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <h3> • Learning - Java</h3>
 <a href="https://github.com/OG-Matcha/NCU-MIS-Java">
-  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU-MIS-Java&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=NCU-MIS-Java&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <h3> • Learning - Website</h3>
 <a href="https://github.com/OG-Matcha/Taiwan-Project">
-  <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Taiwan-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Taiwan-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Hawaii-Project">
-  <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Hawaii-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6"/>
+  <img height=120vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Hawaii-Project&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
 <p align="left">
