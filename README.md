@@ -36,7 +36,7 @@ located_in: Taoyuan, Taiwan
 current_job: College Student
 education:
   [
-    "Bachelor's in MIS",
+    "Bachelor's in MIS at National Central University",
   ]
 fields_of_interests:
   [
@@ -52,7 +52,7 @@ technical_background:
     "Tutor - Python",
   ]
   
-currently_learning: ["Docker, React Native and Linux"]
+currently_learning: ["Docker, Tensorflow and Linux"]
 hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 ```
   
@@ -159,13 +159,18 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Searching-and-Sorting&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 
-<h3> • Learning - Python</h3>
+<h3> • Machine Learning & Deep Learning</h3>
+<a href="https://github.com/OG-Matcha/Kaggle_Course">
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Kaggle_Course&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
+</a>
 <a href="https://github.com/OG-Matcha/ML_2021_Spring">
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=ML_2021_Spring&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
 <a href="https://github.com/OG-Matcha/Basic-TensorFlow">
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Basic-TensorFlow&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
+
+<h3> • Learning - Python</h3>
 <a href="https://github.com/OG-Matcha/FastAPI-Learning">
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=FastAPI-Learning&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
