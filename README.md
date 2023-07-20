@@ -127,7 +127,7 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
   <img align="center" src="https://github-readme-stats-og-matcha.vercel.app/api/top-langs/?username=OG-Matcha&layout=compact&hide=jupyter%20notebook&theme=radical" />
 </a>
 
-![Snake animation](https://github.com/OG-Matcha/OG-Matcha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/OG-Matcha/OG-Matcha/blob/0bf7b111945dd305cf048875f881f2cefac64d11/github-contribution-grid-snake-dark.svg)
  
 <h2> 🎧 &nbsp;What I Have Done</h2>
 
