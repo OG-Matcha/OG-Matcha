@@ -180,6 +180,9 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 <a href="https://github.com/OG-Matcha/Django_Chat">
   <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Django_Chat&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
+<a href="https://github.com/OG-Matcha/Django_REST_Framework">
+  <img height=100vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Django_REST_Framework&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
+</a>
 
 <h3> • Learning - Python</h3>
 <a href="https://github.com/OG-Matcha/Learning_Seaborn">
