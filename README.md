@@ -147,9 +147,6 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 <a href="https://github.com/OG-Matcha/Number-Guessing">
   <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Number-Guessing&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
 </a>
-<a href="https://github.com/OG-Matcha/Donut">
-  <img height=85vw src="https://github-readme-stats.vercel.app/api/pin/?username=OG-Matcha&repo=Donut&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6&PAT_1"/>
-</a>
 
 <h3> • Data Structure & Algorithm</h3>
 <a href="https://github.com/OG-Matcha/LeetCode-Practice">
