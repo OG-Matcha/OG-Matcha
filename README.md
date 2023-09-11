@@ -49,6 +49,7 @@ fields_of_interests:
 technical_background:
   [
     "Member - SAP Student Team - Basis & S/4HANA"
+    "Data Science Intern - Oasis Infobyte"
     "Tutor - Python",
   ]
   
