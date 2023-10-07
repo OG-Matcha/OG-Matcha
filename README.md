@@ -36,19 +36,20 @@ located_in: Taoyuan, Taiwan
 current_job: College Student
 education:
   [
-    "Bachelor's in MIS at National Central University",
+    "Bachelor's in MIS at National Central University"
   ]
 fields_of_interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
+    "Artificial Intelligence",
     "UI/UX",
     "DevOps",
   ]
 technical_background:
   [
     "Member - SAP Student Team - Basis & S/4HANA"
+    "Co-founder - United Developer Club"
     "Data Science Intern - Oasis Infobyte"
     "Tutor - Python",
   ]
