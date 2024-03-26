@@ -65,7 +65,7 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Programming Language</h4>
 
-[![PL](https://skillicons.dev/icons?i=c,cpp,py,java,js,dart)](https://skillicons.dev)
+[![PL](https://skillicons.dev/icons?i=c,cpp,py,java,js,dart,php)](https://skillicons.dev)
 
 <h3>AI/Automation</h3>
 
@@ -73,15 +73,15 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Frontend</h3>
 
-[![FE](https://skillicons.dev/icons?i=html,css,vue,sass)](https://skillicons.dev)
+[![FE](https://skillicons.dev/icons?i=html,css,vue,nuxt,sass)](https://skillicons.dev)
 
 <h3>Backend</h3>
 
-[![BE](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,postgres,sqlite)](https://skillicons.dev)
+[![BE](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,nginx,postgres,sqlite,redis)](https://skillicons.dev)
 
 <h3>Frameworks</h3>
 
-[![FW](https://skillicons.dev/icons?i=qt,flutter,bots)](https://skillicons.dev)
+[![FW](https://skillicons.dev/icons?i=qt,flutter,laravel,bots)](https://skillicons.dev)
 
 <h3>Dev Tools</h3>
 
