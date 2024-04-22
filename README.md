@@ -4,16 +4,6 @@
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
-  存款:D
-  蜜蜂:A
-  Bug:C
-  拼圖:C
-  農夫:A
-  麗麗:A
-  機器人路徑:B
-  HTML標籤:D
-  HTML文字:C
-  植物殭屍:D
 </h1>
 
 <p align="center">
