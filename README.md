@@ -73,15 +73,19 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Frontend</h3>
 
-[![FE](https://skillicons.dev/icons?i=html,css,vue,nuxt,sass)](https://skillicons.dev)
+[![FE](https://skillicons.dev/icons?i=html,css,vue,nuxt,sass,tailwind)](https://skillicons.dev)
 
 <h3>Backend</h3>
 
-[![BE](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,nginx,postgres,sqlite,redis)](https://skillicons.dev)
+[![BE](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,nginx,mysql,postgres,sqlite,redis)](https://skillicons.dev)
 
 <h3>Frameworks</h3>
 
 [![FW](https://skillicons.dev/icons?i=qt,flutter,laravel,bots)](https://skillicons.dev)
+
+<h3>Cloud</h3>
+
+[![FW](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 
 <h3>Dev Tools</h3>
 
