@@ -48,10 +48,11 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "D/CEO - 2024 NCU Fresh Web"
-    "Member - SAP Student Team - Basis & S/4HANA"
-    "Co-founder - United Developer Club"
-    "Data Science Intern - Oasis Infobyte"
+    "D/CEO - 2024 NCU Fresh Web",
+    "Member - Borg Lab",
+    "Member - SAP Student Team - Basis & S/4HANA",
+    "Co-founder - United Developer Club",
+    "Data Science Intern - Oasis Infobyte",
     "Tutor - Python",
   ]
   
