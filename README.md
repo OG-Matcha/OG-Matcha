@@ -56,7 +56,7 @@ technical_background:
     "Tutor - Python",
   ]
   
-currently_learning: ["Docker, Tensorflow and Linux"]
+currently_learning: ["Docker, Pytorch and Linux"]
 hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 ```
   
