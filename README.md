@@ -88,7 +88,7 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Frameworks</h3>
 
-[![FW](https://go-skill-icons.vercel.app/api/icons?i=qt,flutter,laravel,bots&titles=true)](https://skillicons.dev)
+![FW](https://go-skill-icons.vercel.app/api/icons?i=qt,flutter,laravel,bots&titles=true)
 
 <h3>Cloud</h3>
 
