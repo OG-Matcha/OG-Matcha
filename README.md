@@ -68,39 +68,43 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Programming Language</h4>
 
-[![PL](https://skillicons.dev/icons?i=c,cpp,py,java,js,dart,php)](https://skillicons.dev)
+![PL](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,py,java,js,dart,php&titles=true)
 
 <h3>AI/Automation</h3>
 
-[![AA](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,selenium)](https://skillicons.dev)
+![AA](https://go-skill-icons.vercel.app/api/icons?i=pytorch,tensorflow,sklearn,langchain,selenium&titles=true)
+
+<h3>Data</h3>
+
+![Data](https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn&titles=true)
 
 <h3>Frontend</h3>
 
-[![FE](https://skillicons.dev/icons?i=html,css,vue,nuxt,sass,tailwind)](https://skillicons.dev)
+![FE](https://go-skill-icons.vercel.app/api/icons?i=html,css,vue,nuxt,sass,tailwind&titles=true)
 
 <h3>Backend</h3>
 
-[![BE](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,nginx,mysql,postgres,sqlite,redis)](https://skillicons.dev)
+![BE](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,django,fastapi,flask,sequelize,graphql,spring,nginx,mysql,postgres,sqlite,redis&titles=true)
 
 <h3>Frameworks</h3>
 
-[![FW](https://skillicons.dev/icons?i=qt,flutter,laravel,bots)](https://skillicons.dev)
+[![FW](https://go-skill-icons.vercel.app/api/icons?i=qt,flutter,laravel,bots&titles=true)](https://skillicons.dev)
 
 <h3>Cloud</h3>
 
-[![FW](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+![FW](https://go-skill-icons.vercel.app/api/icons?i=azure&titles=true)
 
 <h3>Dev Tools</h3>
 
-[![DT](https://skillicons.dev/icons?i=docker,git,linux,postman)](https://skillicons.dev)
+![DT](https://go-skill-icons.vercel.app/api/icons?i=docker,git,linux,postman&titles=true)
 
 <h3>Design</h3>
 
-[![DE](https://skillicons.dev/icons?i=figma,md)](https://skillicons.dev)
+![DE](https://go-skill-icons.vercel.app/api/icons?i=canva,figma,md&titles=true)
 
 <h3>IDE</h3>
 
-[![IDE](https://skillicons.dev/icons?i=vscode,eclipse)](https://skillicons.dev)
+![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,jupyter&titles=true)
 
 ---  
 
