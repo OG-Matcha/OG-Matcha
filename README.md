@@ -92,7 +92,7 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 
 <h3>Cloud</h3>
 
-![FW](https://go-skill-icons.vercel.app/api/icons?i=azure&titles=true)
+![FW](https://go-skill-icons.vercel.app/api/icons?i=azure,heroku&titles=true)
 
 <h3>Dev Tools</h3>
 
