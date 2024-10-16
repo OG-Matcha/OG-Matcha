@@ -50,7 +50,7 @@ fields_of_interests:
 technical_background:
   [
     "D/CEO - 2024 NCU Fresh Web",
-    "CTO - Dong Shang"
+    "CTO - Finctory"
     "Member - Borg Lab",
     "Member - SAP Student Team - Basis & S/4HANA",
     "Co-founder - United Developer Club",
