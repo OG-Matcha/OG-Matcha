@@ -51,10 +51,9 @@ technical_background:
   [
     "D/CEO - 2024 NCU Fresh Web",
     "CTO - Finctory"
-    "Member - Borg Lab",
-    "Member - SAP Student Team - Basis & S/4HANA",
+    "Co-founder - IFA Lab - Intelligent Finance Analytics Lab",,
     "Co-founder - United Developer Club",
-    "Data Science Intern - Oasis Infobyte",
+    "Member - SAP Student Team - Basis & S/4HANA",
     "Tutor - Python",
   ]
   
