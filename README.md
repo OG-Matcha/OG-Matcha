@@ -49,15 +49,14 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "D/CEO - 2024 NCU Fresh Web",
-    "CTO - Finctory"
-    "Co-founder - IFA Lab - Intelligent Finance Analytics Lab",,
-    "Co-founder - United Developer Club",
-    "Member - SAP Student Team - Basis & S/4HANA",
-    "Tutor - Python",
+    "AI Intern - Innovation & Venture Strategy Division, ISTI, ITRI - 2025/07-present"
+    "CTO - Finctory Co., Ltd. - 2024/04-present",
+    "D/CEO - 2024 NCU Fresh Web - 2023/10-2024/12",
+    "Co-founder - United Developer Club - 2023/09-2023/12",
+    "Member - SAP Student Team - Basis & S/4HANA - 2022/10-2024/02",
+    "Tutor - Python Programming",
   ]
   
-currently_learning: ["Docker, Pytorch and Linux"]
 hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 ```
   
@@ -96,14 +95,6 @@ hobbies: ["Programming", "Gaming", "Anime", "Manga", "Comedy"]
 <h3>Dev Tools</h3>
 
 ![DT](https://go-skill-icons.vercel.app/api/icons?i=docker,git,linux,postman&titles=true)
-
-<h3>Design</h3>
-
-![DE](https://go-skill-icons.vercel.app/api/icons?i=canva,figma,md&titles=true)
-
-<h3>IDE</h3>
-
-![IDE](https://go-skill-icons.vercel.app/api/icons?i=vscode,eclipse,jupyter&titles=true)
 
 ---  
 
