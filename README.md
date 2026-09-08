@@ -49,8 +49,9 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "Co-founder & FDE - MedaLink Co., Ltd. - 2026/08-present"
     "AI Intern - Innovation & Venture Strategy Division, ISTI, ITRI - 2025/07-present"
-    "CTO - Finctory Co., Ltd. - 2024/04-present",
+    "Co-founder & CTO - Finctory Co., Ltd. - 2024/04-present",
     "D/CEO - 2024 NCU Fresh Web - 2023/10-2024/12",
     "Co-founder - United Developer Club - 2023/09-2023/12",
     "Member - SAP Student Team - Basis & S/4HANA - 2022/10-2024/02",
