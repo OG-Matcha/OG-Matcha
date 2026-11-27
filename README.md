@@ -3,12 +3,13 @@
 </p>
 
 <p align="center">
-  CTO @ Finctory · Co-founder @ MedaLink · AI Intern @ ITRI · M.S. student in MIS @ NCU<br/>
+  CTO @ Finctory · Co-founder @ MedaLink · AI Intern @ ITRI · M.S. student @ <a href="https://ifalab-ncu.com/en/members/ju-shen-huang/">IFA Lab</a>, NCU MIS<br/>
   I build AI agents, developer tools, and the products around them.
 </p>
 
 <p align="center">
   <a href="https://www.ogmatcha.com"><img src="https://img.shields.io/badge/Website-ogmatcha.com-2ea44f?style=flat-square"/></a>
+  <a href="https://ifalab-ncu.com/en/members/ju-shen-huang/"><img src="https://img.shields.io/badge/Lab-IFA%20Lab%20%40%20NCU-8A63D2?style=flat-square"/></a>
   <a href="https://www.linkedin.com/in/ogmatcha/"><img src="https://img.shields.io/badge/LinkedIn-ogmatcha-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="https://leetcode.com/OG_Matcha/"><img src="https://img.shields.io/badge/LeetCode-OG__Matcha-FFA116?style=flat-square&logo=leetcode&logoColor=white"/></a>
   <a href="https://www.instagram.com/og_matcha/"><img src="https://img.shields.io/badge/Instagram-og__matcha-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
@@ -47,7 +48,7 @@ now:
   - Co-founder & FDE @ MedaLink Co., Ltd. (2026/07–)
   - AI Intern @ Innovation & Venture Strategy Division, ISTI, ITRI (2025/07–)
   - Co-founder & CTO @ Finctory Co., Ltd. (2024/04–)
-  - M.S. student (1st year) in MIS @ National Central University
+  - M.S. student (1st year) in MIS @ National Central University, IFA Lab (https://ifalab-ncu.com)
 before:
   - D/CEO @ 2024 NCU Fresh Web (2023/10–2024/12)
   - Co-founder @ United Developer Club (2023/09–2023/12)
